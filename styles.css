@@ -1,17 +1,16 @@
-/* Reset de márgenes y paddings */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
   
-  /* Estilos generales */
   body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
   }
   
-  /* Header */
+
   header {
     background-color: #333;
     padding: 10px;
